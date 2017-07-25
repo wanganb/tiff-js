@@ -1,6 +1,6 @@
 # TIFF.js #
 
-A JavaScript-based parser for the TIFF image format.
+A good JavaScript-based parser for the TIFF image format.
 
 ## Specification ##
 
